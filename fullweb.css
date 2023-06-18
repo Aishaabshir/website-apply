@@ -1,0 +1,509 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+ul{
+    display: flex;
+    margin-top: 20px;
+}
+.logo{
+    margin-top: 10px;
+    color: orangered;
+    font-size: 20px;
+}
+ul li{
+    list-style: none;
+    padding: 15px;
+}
+ul li a{
+    text-decoration: none;
+}
+button{
+    font-size: 13px;
+    border-radius: none;
+    height: 35px;
+    width: 80px;
+    color: white;
+    background-color: rgb(44, 44, 180);
+}
+.l button{
+    border: 2px solid blue;
+    background-color: white;
+    color: blue;
+}
+.l a{
+    font-size: 17px;
+}
+.part2{
+    justify-content: center;
+    display: flex;
+    gap: 5%;
+    margin-left: -1%;
+    
+}
+.qoral p{
+    margin: 5px 7%;
+    margin-left: -1px;
+    color: rgb(109, 105, 105);
+}
+img{
+    width: 500px;
+    height: 340px;
+    border-top-left-radius:10px ;
+    border-top-right-radius:10px ;
+    border-bottom-left-radius:10px ;
+    border-bottom-right-radius:10px ;
+
+}
+.pclr p{
+    color: blue;
+
+}
+.b button{
+    width: 90px;
+    margin-left: -5px;
+    border-top-left-radius:10px ;
+    border-top-right-radius:10px ;
+    border-bottom-left-radius:10px ;
+    border-bottom-right-radius:10px ;
+
+}
+.b{
+    display: flex;
+    gap: 9px;
+
+}
+.part3{
+    justify-content: center;
+    margin-left: 15%;
+}
+.q{
+    text-align: center;
+    margin-left: -20%;
+}
+.bx1 i{
+    margin-left: 35%;
+    color: blue;
+}
+
+.boxes{
+    display: flex;
+    gap: 10%;
+}
+.part4{
+    height: 600px;
+    width: 90%;
+    margin: 10px 8%;
+    background-color:orangered;
+    border-top-left-radius:20px ;
+    border-top-right-radius:20px ;
+    border-bottom-left-radius:20px ;
+    border-bottom-right-radius:20px ;
+}
+.fa-mug-hot{
+    color: orangered;
+}
+.fa-burger{
+    color: orange;
+}
+.fa-pizza-slice{
+    color: rgb(160, 56, 56);
+}
+.fa-truck{
+    color: rgb(32, 22, 175);
+}
+.fa-martini-glass-citrus{
+    color: red;
+}
+h1{ 
+    animation-name: h;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    text-align: center;
+    
+}
+.part4 h1{
+    margin-top: 30px;
+}
+.sw img{
+    margin-left:20px ;
+    height:340px ;
+    width: 250px;
+    margin-top: -0.7px;
+    margin-left: -1px;
+    
+}
+.sw{
+    background-color: aliceblue;
+    height: 339px;
+    width:450px;
+    margin-left: 20px;
+    border-top-left-radius:10px ;
+    border-top-right-radius:10px ;
+    border-bottom-left-radius:10px ;
+    border-bottom-right-radius:10px ;
+}
+.swrs{
+    margin-top: 50px;
+    display: flex;
+    justify-content:space-around;
+    gap:50px;
+}
+.sw{
+    display: flex;
+}
+.sq{
+    margin-left:1%;
+}
+.bwhite{
+    
+    margin-top: 30px;
+    margin-left: 35px;
+    border-top-left-radius:10px ;
+    border-top-right-radius:10px ;
+    border-bottom-left-radius:10px ;
+    border-bottom-right-radius:10px ;
+    background-color: aliceblue;
+    width:95%;
+    height: 90px;
+}
+.bwhite h4 {
+    margin-left: 30%;
+    margin-bottom: hana lahadlayo yabanhy;
+    color: rgb(40, 35, 35);
+
+}
+
+.hdr2{
+    margin-left: 20%;
+    background-color: rgb(205, 201, 201);
+    width: 810px;
+    border-top-left-radius:10px ;
+    border-top-right-radius:10px ;
+    border-bottom-left-radius:10px ;
+    border-bottom-right-radius:10px ;
+}
+.hdr2 ul{
+    
+    font-size: 15px;
+    margin-left: -19px;
+   display: flex;
+  list-style: none;
+  gap:15px;
+}
+.hdr2 ul li a{
+    text-decoration: none;
+    color: black;
+}
+.part5 h4{
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.hdr2 ul li a:hover{
+    color: aliceblue;
+    background-color: black;
+    border-top-left-radius:5px ;
+    border-top-right-radius:5px ;
+    border-bottom-left-radius:5px ;
+    border-bottom-right-radius:5px ;
+}
+.bxof2{
+    display: flex;
+    gap: 5%;
+    justify-content: center;
+}
+.pic img{
+    width: 400px;
+
+}
+.pic{
+    display: flex;
+}
+.qrl p{
+    margin: 8px 10%;
+}
+.qrl{
+   margin-left:18% ;
+}
+.qrl button{
+    margin-left:9.5% ;
+}
+.qrl h1{
+    margin-left:-10% ;
+}
+.bx{
+    background-color:aliceblue;
+    width: 330px;
+    height: 300px;
+    text-align: center;
+    border-radius: 30px;
+}
+.bx p{
+    color: rgb(98, 96, 96);
+}
+button{
+    border-radius: 10px;
+}
+.p p{
+    margin-left: 75px;
+    background-color: orangered;
+    border-radius: 10px;
+    width:150px;
+    color: black;
+}
+.bx h4{
+    margin-top: 8%;
+}
+.bxs{
+    display: flex;
+    gap: 10%;
+    justify-content: center;
+}
+.part7 img{ 
+    position: relative;
+    width: 800px;
+    height: 400px;
+    margin-top: 3%;
+    margin-left: 20%;
+    border-radius: 30px;
+}
+@keyframes h {
+    from{
+        color: rgb(249, 7, 209);
+    }
+    to{
+        color: rgb(4, 252, 32);
+    }
+    
+}
+.part7 button{ 
+    position: absolute;
+    font-size: 14px;
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    margin-left: -33%;
+   margin-top: 15%;
+}
+.part7 button i{
+    font-size: 15px;
+}
+.signa{
+    justify-content: center;
+    font-size: 40px;
+    display: flex;
+    gap: 40px;
+    margin-top: 35px;
+    color: gray;
+
+}
+.part7 p{
+    text-align: center;
+    color: gray;
+}
+.part8{
+    display: flex;
+    gap: 20%;
+    justify-content: center;
+}
+.pic2 img{
+    height: 300px;
+    width: 370px;
+    margin-top: 25px;
+    margin-left: 25px;
+    
+}
+.log h2{
+    font-size: 30px;
+}
+.log input{
+    width: 300px;
+    height: 35px;
+    display: grid;
+    row-gap: 35px;
+
+}
+.log button{
+    margin-top: 10px;
+    width: 300px;
+    height: 36px;
+}
+.pic2{
+    margin-top: 30px;
+    background-color: orangered;
+    height: 230px;
+    width: 450px;
+    border-radius: 15px;
+}
+.part9{
+    display: flex;
+    background-color: aliceblue;
+    gap: 10%;
+    justify-content: center;
+    font-size: 13px;
+}
+.bx2{
+    margin-left: 10px;
+   margin-top: 5px;
+
+}
+.bx2 h3{
+    color: orangered;
+    font-size: 20px;
+}
+.bx3 p{
+    color: gray;
+}
+.loc{
+    font-size: 8px;
+    margin-top: 26px;
+    margin-left: 20px;
+}
+@media screen and ( max-width: 600px ) {
+    .header ul li{
+        color: orangered;
+        padding: 5px;
+        font-size: 8px;
+    }
+    .header ul li a{
+        color: rgb(10, 209, 20);
+    }
+    .header ul li button{
+        font-size: 8px;
+        margin-top: -20px;
+    }
+    .l a{
+        font-size: 8px;
+    }
+    .logo{
+        margin-left: 10px;
+        font-size: 8px;
+    }
+    .part2{
+        display: grid;
+        grid-template-rows: 300px;
+        row-gap: 8px;
+    }
+    .qoral p{
+        text-align: center;
+    }
+    .b{
+        justify-content: center;
+    }
+    .swr img{
+        width: 400px;
+        height: 200px;
+    }
+    .boxes{
+        justify-content: center;
+        margin-right: 45px;
+    }
+    .bx1 i{
+        color: rgb(227, 176, 8);
+    }
+    .bx1 h3{
+        color: deeppink;
+    }
+    .part4{
+       background-color: rgb(115, 99, 99);
+       height: 850px;
+       width: 100%;
+       border-radius: 10px;
+       margin-left: 3px;
+       margin-top: 25px;
+    }
+    .part4 h1{
+        color: deeppink;
+    }
+    .swrs{
+        display: grid;
+        grid-template-rows:300px;
+        row-gap: 10%;
+    }
+    .sw {
+        width: 370px;
+        height: 300;
+        margin-top: -25px;
+
+    }
+    .bwhite{
+        margin-top: 17%;
+        height: 40px;
+        margin-left: 3%;
+    }
+    .hdr2{
+        margin-left: -1%;
+        margin-top: 40px;
+        width: 455px;
+         
+    }
+    .hdr2 ul li a{
+        font-size: 8px;
+        margin-top: 20px ;                                                                                                                                                                                                       ;
+    }
+    .hdr2 ul li{
+        padding: 5px
+    }
+    .bxof2{
+        display: grid;
+        grid-template-rows: 300px;
+    }
+    .pic{
+        display: grid;
+        grid-template-rows: 300px;
+        row-gap: 5px;
+    }
+    .part6 h1{
+        margin-top: 50px;
+    }
+    .bxs{
+        display: grid;
+        grid-template-rows: 300px;
+        row-gap: 8px;
+    }
+    .part7 img{
+        width: 350px;
+        height: 200px;
+        margin-left: 11%;
+    }
+    .part7 button{
+        width: 160px;
+        margin-left: -50%;
+        margin-top: 20%;
+    }
+    .signa{
+        font-size: 20px;
+    }
+    .part8 {
+        display: grid;
+        grid-template-rows: 300px;
+        row-gap: 25%;
+    }
+    .log{
+        margin-left: 5%;
+    }
+    .pic2 img{
+        height: 250px;
+        width: 300px;
+        margin-left:-10% ;
+    }
+    .pic2{
+        height: 200px;
+        width: 300px;
+        margin-left: 5%;
+        margin-top: 20%;
+        
+    }
+    .part9{
+        font-size: 10px;
+        margin-top: 50%;
+        gap:10px
+
+    }
+
+
+
+}
